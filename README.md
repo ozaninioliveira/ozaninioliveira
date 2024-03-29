@@ -29,5 +29,5 @@ Welcome to my portfolio. This repository serves as a comprehensive presentation 
 ## Contact Information
 For inquiries or collaboration opportunities, please feel free to reach out via the following channels:
 
-- Email: ozaninioliveira@gmail.com
-- LinkedIn: www.linkedin.com/in/ozaninioliveira
+- <a href = "mailto:ozaninioliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+- <a href="www.linkedin.com/in/ozaninioliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
