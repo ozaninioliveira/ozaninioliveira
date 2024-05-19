@@ -16,9 +16,9 @@ Welcome to my portfolio. This repository serves as a comprehensive presentation 
 ## Skills
 - **Languages**: Profiency in PHP, and experience with Javascript, Typescript and PL/pgSQL.
 - **Markup, styling, data format**: Experience with HTML5, CSS3, XML, JSON, YAML.
-- **Frameworks & Libraries**: Profiency with Symfony, experience and acquainted with frameworks and libraries like Laravel, PHPUnit, xDebug,
+- **Frameworks & Libraries**: Profiency with Symfony, experience and acquainted with frameworks and libraries like Laravel, PHPUnit,
   jQuery, Bootstrap, Tailwind, React, Angular.
-- **Development Tools**: Proficient in tools such as Git, PHPStorm, VS Code.
+- **Development Tools**: Proficient in tools such as Git, xDebug, PHPStorm, VS Code.
 - **DBMSs**: Experience and acquainted with PostgreSQL, MariaDB, MySQL.
 - **Other Skills**: Docker, WSL, Design patterns, Algorithms, Data Structures, Security Principles, Agile methodologies, Testing and Debugging.
 
